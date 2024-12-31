@@ -1,0 +1,4 @@
+# Model files
+*.h5
+*.pb
+*.onnx

@@ -1,0 +1,20 @@
+# Composer dependencies
+/vendor/
+
+# Generated files
+*.log
+*.cache
+
+# IDE files
+.idea/
+*.vscode
+
+# PHPUnit
+phpunit.xml
+phpunit.xml.dist
+coverage/
+
+# Laravel or Symfony-specific
+.env
+.env.*
+/storage/

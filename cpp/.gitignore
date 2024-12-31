@@ -1,0 +1,23 @@
+# Object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Debug files
+*.d
+*.elf
+*.map
+
+# C++ cache and logs
+*.pch
+*.gch
+*.log
+
+# IDE or build system files
+.idea/
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+build/

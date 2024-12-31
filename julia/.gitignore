@@ -1,0 +1,3 @@
+# Julia build artifacts
+*.jl.cov
+*.jl.grisu_cache

@@ -1,0 +1,5 @@
+# Gems
+*.gem
+
+# Bundler config
+.bundle/

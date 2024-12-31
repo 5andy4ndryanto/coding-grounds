@@ -1,0 +1,5 @@
+# Mix build artifacts
+_build/
+
+# Dependencies
+deps/
