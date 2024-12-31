@@ -1,0 +1,10 @@
+# flutter new project
+> flutter create [project_name]
+
+# flutter run project
+> flutter run -d chrome
+> flutter run -d chrome --web-renderer html
+
+> Flutter Tutorial for Beginners #9 - Buttons & Icons
+
+====> part 22
